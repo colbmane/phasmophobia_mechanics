@@ -547,6 +547,7 @@ The means in general your most "worth the money" photos are:
 ### Anti-Cheat
 
 - Err...the game just checks if you have over $250,000 and sets you back to $100. Seems legit.
+- Doesn't happen anymore.
 
 ### Insurance
 
